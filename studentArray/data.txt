@@ -1,0 +1,9 @@
+5
+Smith 55.0
+
+Jones 63.5
+
+Wilson 85.0
+
+David 65.8
+John 44.2
